@@ -1,0 +1,15 @@
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/Task 2.csproj.AssemblyReference.cache
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/Task 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/Task 2.AssemblyInfoInputs.cache
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/Task 2.AssemblyInfo.cs
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/Task 2.csproj.CoreCompileInputs.cache
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/bin/Debug/net6.0/Task 2
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/bin/Debug/net6.0/Task 2.deps.json
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/bin/Debug/net6.0/Task 2.runtimeconfig.json
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/bin/Debug/net6.0/Task 2.dll
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/bin/Debug/net6.0/Task 2.pdb
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/Task 2.dll
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/refint/Task 2.dll
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/Task 2.pdb
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/Task 2.genruntimeconfig.cache
+/Users/aleksejdemkin/Desktop/Tasks/DZ Lesson 9/Task 2/obj/Debug/net6.0/ref/Task 2.dll
